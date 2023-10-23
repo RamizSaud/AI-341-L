@@ -1,0 +1,5 @@
+Implementaion of Perceptron
+CNN Architecture
+CNN with dynamic kernel
+Word2Vec
+Tokenization, etc
